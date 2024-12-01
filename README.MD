@@ -6,3 +6,5 @@ HELLO!
 ## GIT STATUS 
 ## GIT COMMIT -M ""
 ## GIT PUSH
+## HI HOW ARE YOU ?
+
